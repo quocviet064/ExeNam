@@ -21,7 +21,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 
-export default function PlantsomeUpdatedSections() {
+export default function page() {
   return (
     <div className="container mx-auto px-6 py-12">
       {/* Header */}
